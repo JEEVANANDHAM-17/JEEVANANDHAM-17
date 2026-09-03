@@ -1,16 +1,16 @@
-## Hi there 👋
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/Sukhress-Warun/Sukhress-Warun/main/images/wave.gif" alt="👋" width="35" />, I'm Jeevanandham</h1>
 
-<!--
-**JEEVANANDHAM-17/JEEVANANDHAM-17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">Software Developer · Java &amp; Spring Boot · Problem Solving</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  I build reliable backend systems and practical applications.<br />
+  Turning ideas into working software, one problem at a time.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br />
+
+- 💻 I work with **Java, Spring Boot, REST APIs, and SQL**.
+- 🌐 **Portfolio:** [Explore my work](https://jeevanandham-a.jeevanandham170304.chatgpt.site/)
+- 🧩 **LeetCode:** [JEEVANANDHAM_17](https://leetcode.com/u/JEEVANANDHAM_17/)
+- 🤝 **LinkedIn:** [Jeevanandham A](https://www.linkedin.com/in/jeevanandham-a-11336123b/)
+- 📫 **Reach me:** [jeevanandham170304@gmail.com](mailto:jeevanandham170304@gmail.com)
