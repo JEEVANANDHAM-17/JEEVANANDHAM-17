@@ -10,7 +10,7 @@
 <br />
 
 - 💻 I work with **Java, Spring Boot, REST APIs, and SQL**.
-- 🌐 **Portfolio:** [Explore my work](https://jeevanandham-portfolio.onrender.com/?gh)
+- 🌐 **Portfolio:** [Explore my work](https://jeevanandham-portfolio.onrender.com/gh)
 - 🧩 **LeetCode:** [JEEVANANDHAM_17](https://leetcode.com/u/JEEVANANDHAM_17/)
 - 🤝 **LinkedIn:** [Jeevanandham A](https://www.linkedin.com/in/jeevanandham-a-11336123b/)
 - 📫 **Reach me:** [jeevanandham170304@gmail.com](mailto:jeevanandham170304@gmail.com)
